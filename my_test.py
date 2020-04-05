@@ -1,7 +1,7 @@
-from my_code import inc
+from my_code import double_it
 
 
 def test_inc():
-    assert 5 == inc(4)
-    assert 1 == inc(0)
-    assert 0 == inc(-1)
+    assert 8 == double_it(4)
+    assert 0 == double_it(0)
+    assert -2 == double_it(-1)

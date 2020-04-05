@@ -1,6 +1,6 @@
-def inc(x):
-    return x + 1
+def double_it(x):
+    return  # Enter the value to return here
 
 
 if __name__ == '__main__':
-    print(inc(6))
+    print(double_it(6))
