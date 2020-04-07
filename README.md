@@ -14,12 +14,6 @@ Value to double? 5
 
 Add code to [my_code.py](./my_code.py) to make it do the desired thing.
 
-## Run your code with:
-```shell script
-make run
-```
+Run your code with: `python my_code.py`
 
-## Run your tests with:
-```shell script
-make test
-```
+Run your tests with: `pytest`
