@@ -1,10 +1,5 @@
 def double_it(x):
-<<<<<<< HEAD
-    
-    return  #blah
-=======
     return # Insert code here
->>>>>>> e02d04cb986bdb670d873fa346cb310d2492addd
 
 
 if __name__ == '__main__':
