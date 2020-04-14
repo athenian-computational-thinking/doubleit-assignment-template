@@ -13,5 +13,6 @@
     "."
   ],
   "python.linting.pylintEnabled": true,
+  "python.linting.pylintPath": "/home/gitpod/.pyenv/shims/pyline"
   "python.linting.enabled": true
 }
