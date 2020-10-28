@@ -16,4 +16,8 @@ Add code to [my_code.py](./my_code.py) to make it do the desired thing.
 
 Run your code with: `python my_code.py`
 
-Run your tests with: `pytest`
+In Gitpod, run your tests with: `pytest`
+In PyCharm:
+* Go to Settings, Tools, Python Integrated Tools. 
+* Under Testing, change option from Unittest to pytest. 
+* Open `my_test.py` and run it.
