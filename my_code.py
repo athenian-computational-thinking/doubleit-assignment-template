@@ -1,5 +1,9 @@
+# Collaborators: 
+
 def double_it(x):
-    return # Insert code here
+    product =    # add code here
+    
+    return product
 
 
 if __name__ == '__main__':
